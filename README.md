@@ -1,4 +1,4 @@
-#File Handling with Python
+# File Handling with Python
 
 1. **File Reader**: Reads and prints the contents of a text file line-by-line.
 2. **File Writer & Appender**: Allows user input to be written to a file and appended later.
